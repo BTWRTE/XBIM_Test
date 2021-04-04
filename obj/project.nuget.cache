@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nq09W84SpSnlJ8xb1nZpZmqt8K8jqCUzGswd0s+ALTD2ncZYgMU/Z/+CPDbBwQKErAgW73Fzj/Lyid11zZcvSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JHodgson\\Desktop\\TEMP\\TEST\\TestProject\\XBIM_Test\\XBIM_Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JHodgson\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
+    "C:\\Users\\JHodgson\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\JHodgson\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.3\\microsoft.extensions.configuration.binder.3.1.3.nupkg.sha512",
+    "C:\\Users\\JHodgson\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.3\\microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
+    "C:\\Users\\JHodgson\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\JHodgson\\.nuget\\packages\\microsoft.extensions.logging\\3.1.3\\microsoft.extensions.logging.3.1.3.nupkg.sha512",
+    "C:\\Users\\JHodgson\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.3\\microsoft.extensions.logging.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\JHodgson\\.nuget\\packages\\microsoft.extensions.options\\3.1.3\\microsoft.extensions.options.3.1.3.nupkg.sha512",
+    "C:\\Users\\JHodgson\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512",
+    "C:\\Users\\JHodgson\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\JHodgson\\.nuget\\packages\\xbim.common\\5.1.323\\xbim.common.5.1.323.nupkg.sha512",
+    "C:\\Users\\JHodgson\\.nuget\\packages\\xbim.essentials\\5.1.323\\xbim.essentials.5.1.323.nupkg.sha512",
+    "C:\\Users\\JHodgson\\.nuget\\packages\\xbim.ifc\\5.1.323\\xbim.ifc.5.1.323.nupkg.sha512",
+    "C:\\Users\\JHodgson\\.nuget\\packages\\xbim.ifc2x3\\5.1.323\\xbim.ifc2x3.5.1.323.nupkg.sha512",
+    "C:\\Users\\JHodgson\\.nuget\\packages\\xbim.ifc4\\5.1.323\\xbim.ifc4.5.1.323.nupkg.sha512",
+    "C:\\Users\\JHodgson\\.nuget\\packages\\xbim.io.memorymodel\\5.1.323\\xbim.io.memorymodel.5.1.323.nupkg.sha512",
+    "C:\\Users\\JHodgson\\.nuget\\packages\\xbim.tessellator\\5.1.323\\xbim.tessellator.5.1.323.nupkg.sha512"
+  ],
+  "logs": []
+}
